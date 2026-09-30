@@ -1,0 +1,16 @@
+[
+    {
+        "transaction_id": 1,
+        "kind": "income",
+        "description": "pocket money",
+        "amount": 1500.0,
+        "category": "allowance"
+    },
+    {
+        "transaction_id": 2,
+        "kind": "expense",
+        "description": "movie ticket",
+        "amount": 250.0,
+        "category": "entertainment"
+    }
+]
